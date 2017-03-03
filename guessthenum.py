@@ -91,9 +91,5 @@ frame.start()
 
 # register event handlers for control elements and start frame
 
-
 # call new_game 
 
-
-
-# always remember to check your completed program against the grading rubric

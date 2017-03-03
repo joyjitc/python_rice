@@ -1,4 +1,4 @@
-# program template for Spaceship
+# Spaceship
 #http://www.codeskulptor.org/#user41_kLgPtOroki_2.py
 import simplegui
 import math

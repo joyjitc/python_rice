@@ -1,6 +1,6 @@
 # Implementation of classic arcade game Pong
 
-import simpleguitk as simplegui
+import simplegui
 import random
 
 # initialize globals - pos and vel encode vertical info for paddles

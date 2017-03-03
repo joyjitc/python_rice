@@ -5,7 +5,7 @@
 # Some features may work in other browsers, but do not expect
 # full functionality.  It does NOT run in Internet Explorer.
 
-import simpleguitk as simplegui
+import simplegui
 count=1
 
 def increment():

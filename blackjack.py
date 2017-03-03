@@ -1,4 +1,4 @@
-# Mini-project #6 - Blackjack
+# Blackjack
 
 import simplegui
 import random
@@ -209,6 +209,3 @@ frame.set_draw_handler(draw)
 # get things rolling
 deal()
 frame.start()
-
-
-# remember to review the gradic rubric

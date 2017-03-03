@@ -1,4 +1,4 @@
-import simpleguitk as simplegui
+import simplegui
 
 store = 0
 operand = 0

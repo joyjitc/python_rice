@@ -79,6 +79,3 @@ frame.set_draw_handler(draw)
 # get things rolling
 new_game()
 frame.start()
-
-
-# Always remember to review the grading rubric
